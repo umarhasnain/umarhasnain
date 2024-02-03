@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://umarhasnain-portfolio.netlify.app/](https://umarhasnain-portfolio.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, Tailwind, Javascript, Firebase**
+- 💬 Ask me about **HTML, CSS, Tailwindcss, Bootstrap, Javascript, Firebase**
 
 - 📫 How to reach me **umarhasnain045@gmail.com**
 
