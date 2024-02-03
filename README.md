@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="cNBuH2grzecvLTfEF83gyC1gHqH9j-3ppJFCA3F1qrY" />
+<head> <meta name="google-site-verification" content="cNBuH2grzecvLTfEF83gyC1gHqH9j-3ppJFCA3F1qrY" /> </head>
 <h1 align="center">Hi 👋, I'm Umar Hasnain</h1>
 <h3 align="center">A Passionate Frontend Web Developer 🚀 having an experience of building Web Development with HTML / CSS / JavaScript / React JS / PWA / Firebase and some other cool libraries and frameworks.</h3>
 
