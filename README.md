@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://umarhasnain.netlify.app/](https://umarhasnain.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://umarhasnain-portfolio.vercel.app/](https://umarhasnain-portfolio.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, TailwindCSS, BootStrap, JavaScript, TypeScript, ReactJS , NextJS, Firebase, NodeJS, ExpressJS, MongoDB.**
 
